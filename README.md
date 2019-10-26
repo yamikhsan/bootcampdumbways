@@ -1,1 +1,1 @@
-Soal no 1 sampai 9 tinggal jalankan file index.html buka console browser 
+Soal no 1 sampai 6 tinggal jalankan file index.html terus buka console di browser 
